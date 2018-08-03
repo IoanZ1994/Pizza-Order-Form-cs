@@ -1,0 +1,11 @@
+C:\Users\Iro\source\repos\ASP_TUTORIALS\PapaBobs\PapaBobs.DTO\bin\Debug\PapaBobs.DTO.dll
+C:\Users\Iro\source\repos\ASP_TUTORIALS\PapaBobs\PapaBobs.DTO\bin\Debug\PapaBobs.DTO.pdb
+C:\Users\Iro\source\repos\ASP_TUTORIALS\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Iro\source\repos\ASP_TUTORIALS\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.dll
+C:\Users\Iro\source\repos\ASP_TUTORIALS\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.pdb
+C:\Users\Iro\source\repos\ASP_TUTORIALS\CHALLENGES\PapaBobs\PapaBobs.DTO\bin\Debug\PapaBobs.DTO.dll
+C:\Users\Iro\source\repos\ASP_TUTORIALS\CHALLENGES\PapaBobs\PapaBobs.DTO\bin\Debug\PapaBobs.DTO.pdb
+C:\Users\Iro\source\repos\ASP_TUTORIALS\CHALLENGES\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Iro\source\repos\ASP_TUTORIALS\CHALLENGES\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.dll
+C:\Users\Iro\source\repos\ASP_TUTORIALS\CHALLENGES\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.pdb
+C:\Users\Iro\source\repos\ASP_TUTORIALS\CHALLENGES\PapaBobs\PapaBobs.DTO\obj\Debug\PapaBobs.DTO.csprojResolveAssemblyReference.cache
